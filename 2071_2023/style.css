@@ -6,6 +6,10 @@ body
 {
     margin: 0;
     background-color: yellowgreen;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 header
 {
@@ -36,7 +40,10 @@ a
 {
     text-decoration: none;
 }
-
+html
+{
+    height: 100%;
+}
 /* верхняя рамка для подвала  border*/
 /* отступы для текста 10px padding*/
 /* цвет текста меню color */
