@@ -1,0 +1,37 @@
+h2
+{
+    color: blueviolet;
+}
+body
+{
+    margin: 0;
+    background-color: yellowgreen;
+}
+header
+{
+    background-color: royalblue;
+}
+main
+{
+    background-color: blueviolet;
+}
+footer
+{
+    background-color: darkgreen;
+}
+ul, h1, h2, h3, h3, h4, h5, h6
+{
+    margin: 0;
+}
+ul
+{
+    list-style: none;
+}
+a
+{
+    text-decoration: none;
+}
+
+/* верхняя рамка для подвала  border*/
+/* отступы для текста 10px padding*/
+/* цвет текста меню color */
