@@ -24,8 +24,6 @@ footer
     background-color: darkgreen;
     background-color: darkgreen;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
 }
 ul, h1, h2, h3, h3, h4, h5, h6
 {
@@ -51,3 +49,16 @@ html
 /* верхняя рамка для подвала  border*/
 /* отступы для текста 10px padding*/
 /* цвет текста меню color */
+.wrapper
+{
+    width: 80%;
+    margin: 0 auto;
+    background-color: #ffffff24;
+    padding: 30px;
+}
+.flex-between-center
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
