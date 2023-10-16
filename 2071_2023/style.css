@@ -56,7 +56,7 @@ html
     background-color: #ffffff24;
     padding: 30px;
 }
-.flex-between-center
+.footer-flex
 {
     display: flex;
     justify-content: space-between;
